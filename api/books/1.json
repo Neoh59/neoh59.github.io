@@ -1,4 +1,4 @@
-  {
+{
     "id" : "978-0641723445",
     "cat" : ["book","hardcover"],
     "name" : "The Lightning Thief",
@@ -9,4 +9,4 @@
     "inStock" : true,
     "price" : 12.50,
     "pages_i" : 384
-  }
+}
